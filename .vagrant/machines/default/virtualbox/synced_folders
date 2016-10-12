@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laradeploy":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/laradeploy","hostpath":"/Users/amiterandole/Sites/larasites/laradeploy","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/amiterandole/Sites/larasites/laradeploy","disabled":false,"__vagrantfile":true}}}
